@@ -6,3 +6,6 @@ En voiture avec Benjamin !
 ## [Volume 2](evab_vol-2.md)
 
 ## [Volume 3](evab_vol-3.md)
+
+## [Volume 4](evab_vol-4.md)
+
