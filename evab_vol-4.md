@@ -6,12 +6,12 @@
 |-----------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------|----------|
 | Beastie Boys                                        | Body movin’ (FatBoy Slim remix)       | Anthology: The Sounds Of Science                                            |          |
 | 808 State                                           | San Francisco                         | ex:el                                                                       |          |
-| Dimitri From Paris                                  | Free ton style (edit)                 | Sacrebleu                                                                   | Ⓢ Ⓓ      |
+| Dimitri From Paris                                  | Free ton style (edit)                 | Sacrebleu                                                                   | Ⓓ Ⓢ      |
 | Dada Life                                           | Your favorite flu (Alex Gopher remix) | My New Remixes                                                              | Ⓢ        |
 | Cypress Hill                                        | Catastrophe                           | Stoned Raiders                                                              |          |
 | Bosco                                               | Action                                | Action                                                                      |          |
 | Armand Van Helden                                   | The boogie monster                    | 2Future4U                                                                   |          |
-| Depeche Mode                                        | Personal Jesus (François K mix)       | A Bugged Out Mix by Felix Da Housecat                                       | Ⓢ Ⓓ      |
+| Depeche Mode                                        | Personal Jesus (François K mix)       | A Bugged Out Mix by Felix Da Housecat                                       | Ⓓ Ⓢ      |
 | Queen                                               | I want it all                         | Greatest Hits II                                                            |          |
 | Daft Punk                                           | Da funk / Daftendirekt                | Alive 2007                                                                  |          |
 | Björk                                               | Big time sensuality                   | Debut                                                                       |          |
@@ -21,7 +21,7 @@
 | Basement Jaxx                                       | Bingo bango                           | Remedy                                                                      |          |
 | Sex Pistols                                         | God save the Queen                    | Never Mind The Bollocks Here’s The Sex Pistols                              |          |
 | DJ Shadow                                           | Disavowed                             | The Private Repress                                                         |          |
-| Alaska                                              | Lost in Alaska (the eurotrancey mix)  | Early Works                                                                 | Ⓢ Ⓓ      |
+| Alaska                                              | Lost in Alaska (the eurotrancey mix)  | Early Works                                                                 | Ⓓ Ⓢ      |
 | Felix Da Housecat                                   | Control freaq                         | Kittenz & Thee Glitz                                                        |          |
 | DJB Productions present Richard Rogers              | Can’t nobody (extended club mix)      | Distance 1995-2000 : An Interpretation of House Music in 2hrs 24mins 11secs |          |
 | Nirvana                                             | Rape me                               | In Utero                                                                    |          |
@@ -32,7 +32,7 @@
 | DJ Food                                             | A little samba                        | A Recipe For Disaster                                                       |          |
 | Led Zeppelin                                        | Whole lotta love                      | BBC Sessions                                                                |          |
 | FatBoy Slim                                         | Song for Lindy                        | Better Living Through Chemistry                                             |          |
-| Treacherous Three with special guest Philippe Wynne | Whip it                               | The Message – The Story Of Sugar Hill Records                               | Ⓢ Ⓓ      |
+| Treacherous Three with special guest Philippe Wynne | Whip it                               | The Message – The Story Of Sugar Hill Records                               | Ⓓ Ⓢ      |
 | DJ Mehdi                                            | Breakaway                             | (The Story Of) Espion                                                       |          |
 | Herbie Hancock                                      | Rockit                                | Future Shock                                                                |          |
 | Gorillaz                                            | 19-2000 (Soulchild remix)             | G Sides                                                                     |          |
@@ -44,7 +44,7 @@
 | Jurassic 5                                          | Swing set                             | Quality Control                                                             |          |
 | Justice                                             | Stress                                | A Cross The Universe                                                        |          |
 | Moby                                                | Sunday                                | Play: The B Sides                                                           |          |
-| Catalan FC                                          | Respect is burning                    | Paris is Sleeping – Respect is Burning                                      | Ⓢ Ⓓ      |
+| Catalan FC                                          | Respect is burning                    | Paris is Sleeping – Respect is Burning                                      | Ⓓ Ⓢ      |
 | Para One                                            | Ski lesson blues                      | Epiphanie                                                                   |          |
 | The Who                                             | The good’s gone                       | My Generation (Deluxe Edition)                                              |          |
 | The Herbaliser feat. Katerine                       | Serge                                 | Take London                                                                 |          |
