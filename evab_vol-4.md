@@ -62,3 +62,5 @@
 [Spotify](https://open.spotify.com/user/maj%C3%A9/playlist/2QVMI7DaIsZejb39yEq4PF?si=kv82dbh8REC8N76ij5xG_Q)
 
 [Deezer](https://www.deezer.com/playlist/5687315462?utm_source=deezer&utm_content=playlist-5687315462&utm_term=2684091262_1553797174&utm_medium=web)
+
+[Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyKuawH_nAgIAU_BosZ8VfyE)
