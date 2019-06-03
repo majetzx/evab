@@ -1,5 +1,9 @@
 # En voiture avec Benjamin ! Volume 5
 
+## Notes d’intention
+
+Les enchainements des morceaux ont été choisis aléatoirement
+
 ## Playlist
 
 | Artiste                                                              | Titre                                                  | Album                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Manquant |

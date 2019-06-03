@@ -1,5 +1,9 @@
 # En voiture avec Benjamin ! Volume 2
 
+## Notes d’intention
+
+Tous les morceaux doivent être disponibles sur Spotify
+
 ## Playlist
 
 | Artiste                                                     | Titre                                  | Album                                    | Manquant |

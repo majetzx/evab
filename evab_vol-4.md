@@ -1,5 +1,9 @@
 # En voiture avec Benjamin ! Volume 4
 
+## Notes d’intention
+
+Les enchainements des morceaux ont reçus une attention particulière
+
 ## Playlist
 
 | Artiste                                             | Titre                                 | Album                                                                       | Manquant |

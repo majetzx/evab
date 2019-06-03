@@ -1,5 +1,9 @@
 # En voiture avec Benjamin ! Volume 1
 
+## Notes d’intention
+
+Néant
+
 ## Playlist
 
 | Artiste                                   | Titre                                      | Album                                                            | Manquant |
