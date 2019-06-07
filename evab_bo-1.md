@@ -37,7 +37,7 @@ Sélection principale par Benjamin
 | Metallica                                           | Disposable heroes                                      | Master Of Puppets                              |          |
 | Daft Punk                                           | Horizon                                                | Random Access Memories                         |          |
 | C2C feat. Tigerstyle, Netik, Rafik, Vajra & Kentaro | Le banquet                                             | Tetra                                          |          |
-| Nirvana                                             | Come as you are                                        | MTV Unplugged in New York                      |          |
+| Nirvana                                             | Come as you are                                        | Nevermind                                      |          |
 | Les Rythmes Digitales                               | (Hey you) what’s that sound?                           | Darkdancer                                     |          |
 | KRS-One                                             | Sound of da police                                     | A Retrospective                                |          |
 | The Who                                             | Baba O’Riley                                           | Who’s Next                                     |          |
