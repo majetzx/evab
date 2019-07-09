@@ -35,7 +35,7 @@ Sélection principale par Benjamin
 | Deep Purple                                         | Highway star                                           | Machine Head                                   |          |
 | Parliament                                          | Flash light                                            | The Best of Parliament: Give Up The Funk       |          |
 | Metallica                                           | Disposable heroes                                      | Master Of Puppets                              |          |
-| Daft Punk                                           | Horizon                                                | Random Access Memories                         |          |
+| Daft Punk                                           | Horizon                                                | Random Access Memories                         | Ⓓ Ⓢ      |
 | C2C feat. Tigerstyle, Netik, Rafik, Vajra & Kentaro | Le banquet                                             | Tetra                                          |          |
 | Nirvana                                             | Come as you are                                        | Nevermind                                      |          |
 | Les Rythmes Digitales                               | (Hey you) what’s that sound?                           | Darkdancer                                     |          |
