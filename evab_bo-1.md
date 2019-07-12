@@ -2,7 +2,7 @@
 
 ## Notes d’intention
 
-Sélection principale par Benjamin
+Sélection principale par Benjamin, parmi les volumes 1 à 5
 
 ## Playlist
 
