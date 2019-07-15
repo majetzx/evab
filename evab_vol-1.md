@@ -46,7 +46,7 @@ Néant
 | Scott Grooves feat. Parliament/Funkadelic | Mothership ReConnection (Daft Punk mix)    | Soma 10 Anthology                                                |          |
 | Hamilton Bohannon                         | Let’s start the dance                      | Soulheaven presents Jazzy Jeff In The House                      |          |
 | Daft Punk                                 | Musique (version longue)                   | Source Labs – Classiques De 1995 À 2002                          | Ⓓ Ⓢ      |
-| Walter Carlos                             | William Tell overture (abridged)           | Stanley Kubrick’s A Clockwork Orange / Music from the Soundtrack |          |
+| Walter Carlos                             | William Tell overture (abridged)           | Stanley Kubrick’s A Clockwork Orange / Music from the Soundtrack | Ⓨ        |
 | Nuyorican Soul                            | I am the black gold of the sun             | Talkin Loud – 21st Century Soul                                  |          |
 | Lou Reed                                  | Perfect day                                | Trainspotting                                                    |          |
 | Up, Bustle & Out                          | Los locos cubanos (Snowboy mix)            | Xen Cuts                                                         |          |
