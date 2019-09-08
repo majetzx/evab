@@ -14,3 +14,5 @@ En voiture avec Benjamin !
 ## [Best Of 1](evab_bo-1.md)
 
 ## [Volume 6](evab_vol-6.md)
+
+## [Volume 7](evab_vol-7.md)
