@@ -30,12 +30,12 @@ Néant
 | Suprême NTM                               | Come again (pour que ça sonne funk)    | Paris Sous Les Bombes                                                       |          |
 | Run-D.M.C.                                | King of rock                           | King of Rock                                                                |          |
 | The Herbaliser                            | Scratchy noise                         | Remedies                                                                    |          |
-| Tyree                                     | Acid crach                             | Acid: Can You Jack? – Chicago Acid and Experimental House 1985–1995         |          |
+| Tyree                                     | Acid crash                             | Acid: Can You Jack? – Chicago Acid and Experimental House 1985–1995         | Ⓓ Ⓢ      |
 | Dee Nasty                                 | Funk a size                            | Rapattitude !                                                               |          |
 | Urban Blues Project presents Jay Williams | Testify (Mousse T remix)               | Paris is Sleeping – Respect is Burning                                      |          |
 | N.W.A                                     | Fuck tha police                        | Greatest Hits                                                               |          |
 | Blaze feat. Palmer Brown                  | Do you remember house?                 | Spiritually Speaking                                                        |          |
-| Laurent Garnier                           | Smart move                             | Unreasonable Behaviour                                                      |          |
+| Laurent Garnier                           | Smart move                             | Unreasonable Behaviour                                                      | Ⓓ Ⓢ      |
 | Cypress Hill                              | (Rap) superstar                        | Skull & Bones                                                               |          |
 | Daft Punk                                 | Digital love                           | Discovery                                                                   |          |
 | Moby                                      | Natural blues                          | Play                                                                        |          |
@@ -51,12 +51,12 @@ Néant
 | The Vampire Sound Inc.                    | The lions and the cucumber             | Jackie Brown – Music from the Miramax Motion Picture                        |          |
 | Fujiya & Miyagi                           | Hundreds & thousands                   | Lightbulbs                                                                  |          |
 | West Street Mob                           | Let’s dance (make your body move)      | The Message – The Story Of Sugar Hill Records                               |          |
-| Mr Scruff                                 | Sweet smoke                            | Trouser Jazz                                                                |          |
+| Mr Scruff                                 | Sweet smoke                            | Trouser Jazz                                                                | Ⓓ        |
 | Blaze                                     | Lovelee dae (original mix)             | Distance 1995-2000 : An Interpretation of House Music in 2hrs 24mins 11secs |          |
 | Roots Manuva                              | Witness (1 hope)                       | Run Come Save Me                                                            |          |
 | Sébastien Tellier                         | Divine                                 | Sampler Technikart Hors-Série Musique 2008                                  |          |
-| De La Soul                                | A roller skating jam named “Saturdays” | De La Soul Is Dead                                                          |          |
-| St Germain                                | Alabama blues (Todd Edwards vocal mix) | From Detroit to St Germain                                                  |          |
+| De La Soul                                | A roller skating jam named “Saturdays” | De La Soul Is Dead                                                          | Ⓓ Ⓢ      |
+| St Germain                                | Alabama blues (Todd Edwards vocal mix) | From Detroit to St Germain                                                  | Ⓢ        |
 | Kid Sister                                | Get fresh (Alex Gopher remix)          | My New Remixes                                                              |          |
 | Funkadelic                                | One nation under a groove              | The Best of Funkadelic 1976-1981                                            |          |
 | Kraftwerk                                 | Musique non stop                       | Electric Cafe                                                               |          |
