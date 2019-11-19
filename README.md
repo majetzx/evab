@@ -24,3 +24,7 @@ En voiture avec Benjamin !
 ## [Volume 10](evab_vol-10.md)
 
 ### [Transitory mix: Daft Punk – Essentiel mix 1997](https://www.mixesdb.com/w/1997-03-02_-_Daft_Punk_-_Essential_Mix)
+
+### [Transitory mix: FatBoy Slim – BBC Electric Proms 2006](https://www.mixesdb.com/w/2006-10-27_-_Fatboy_Slim_@_BBC_Electric_Proms)
+
+### [Transitory mix: John Morales – Live at Disco-nnection 2013](https://www.mixesdb.com/w/2013-04-16_-_John_Morales_@_Disco-nnection,_Middlesex_Lounge,_Cambridge,_Boston)
