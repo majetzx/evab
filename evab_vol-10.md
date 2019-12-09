@@ -2,7 +2,7 @@
 
 ## Notes d’intention
 
-Néant
+Un seul morceau par album
 
 ## Playlist
 
