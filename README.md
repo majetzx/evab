@@ -28,3 +28,5 @@ En voiture avec Benjamin !
 ### [Transitory mix: FatBoy Slim – BBC Electric Proms 2006](https://www.mixesdb.com/w/2006-10-27_-_Fatboy_Slim_@_BBC_Electric_Proms)
 
 ### [Transitory mix: John Morales – Live at Disco-nnection 2013](https://www.mixesdb.com/w/2013-04-16_-_John_Morales_@_Disco-nnection,_Middlesex_Lounge,_Cambridge,_Boston)
+
+## [Best Of 2](evab_bo-2.md)
