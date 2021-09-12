@@ -35,7 +35,7 @@ Néant
 | Underworld                                | Shudder / King of snake                    | Beaucoup Fish                                                    |          |
 | Us3                                       | Cantaloop (flip fantasia)                  | Hand On The Torch                                                |          |
 | Vitalic                                   | Valletta fanfares                          | Ok Cowboy                                                        |          |
-| Demis Roussos                             | L.O.V.E. got a hold on me                  | David Mancuso presents The Loft – Volume Two                     | Ⓓ Ⓢ      |
+| Demis Roussos                             | L.O.V.E. got a hold on me                  | David Mancuso presents The Loft – Volume Two                     |   Ⓢ      |
 | Heatwave                                  | The groove line                            | Disco Sessions                                                   |          |
 | Vaughan Mason & Crew                      | Rollerskate (original full length version) | Disco Sessions                                                   |          |
 | St Germain                                | Deep in it                                 | From Detroit to St Germain                                       |          |
@@ -46,7 +46,7 @@ Néant
 | Scott Grooves feat. Parliament/Funkadelic | Mothership ReConnection (Daft Punk mix)    | Soma 10 Anthology                                                |          |
 | Hamilton Bohannon                         | Let’s start the dance                      | Soulheaven presents Jazzy Jeff In The House                      |          |
 | Daft Punk                                 | Musique (version longue)                   | Source Labs – Classiques De 1995 À 2002                          | Ⓓ Ⓢ      |
-| Walter Carlos                             | William Tell overture (abridged)           | Stanley Kubrick’s A Clockwork Orange / Music from the Soundtrack | Ⓨ        |
+| Walter Carlos                             | William Tell overture (abridged)           | Stanley Kubrick’s A Clockwork Orange / Music from the Soundtrack |          |
 | Nuyorican Soul                            | I am the black gold of the sun             | Talkin Loud – 21st Century Soul                                  |          |
 | Lou Reed                                  | Perfect day                                | Trainspotting                                                    |          |
 | Up, Bustle & Out                          | Los locos cubanos (Snowboy mix)            | Xen Cuts                                                         |          |
@@ -65,6 +65,6 @@ Néant
 
 [Spotify](https://open.spotify.com/user/maj%C3%A9/playlist/2tji5Unbadk3pWkLTDnrgw?si=hOz9xLP4SR6VTvWda7m1Wg)
 
-[Deezer](https://www.deezer.com/playlist/5671095502?utm_source=deezer&utm_content=playlist-5671095502&utm_term=2684091262_1553453278&utm_medium=web)
+[Deezer](https://www.deezer.com/en/playlist/5671095502)
 
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyLm3TDXdEJdu9e04jPP6ZwI)

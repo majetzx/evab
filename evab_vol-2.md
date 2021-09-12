@@ -20,7 +20,7 @@ Tous les morceaux doivent être disponibles sur Spotify
 | Deep Purple                                                 | Child in time                          | In Rock                                  |          |
 | Peaches                                                     | Fuck the pain away                     | The Teaches Of Peaches                   |          |
 | Giorgio                                                     | Baby blue                              | E=MC²                                    |          |
-| Robert Hood                                                 | Interior suspect                       | Wire to Wire                             | Ⓓ        |
+| Robert Hood                                                 | Interior suspect                       | Wire to Wire                             |          |
 | Led Zeppelin                                                | In the evening                         | In Through The Out Door                  |          |
 | Aphex Twin                                                  | Bucephalus bouncing ball               | Come To Daddy                            |          |
 | The Doors                                                   | Riders on the storm                    | L.A. Woman                               |          |
@@ -65,6 +65,6 @@ Tous les morceaux doivent être disponibles sur Spotify
 
 [Spotify](https://open.spotify.com/user/maj%C3%A9/playlist/4uDh4Af6NlfpxMwMm55nba?si=urVZrrdUSHqvkN4Fi0NFAA)
 
-[Deezer](https://www.deezer.com/playlist/5673782982?utm_source=deezer&utm_content=playlist-5673782982&utm_term=2684091262_1553453988&utm_medium=web)
+[Deezer](https://www.deezer.com/en/playlist/5673782982)
 
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyL2dLMpFyTaelvC02h6MrBj)

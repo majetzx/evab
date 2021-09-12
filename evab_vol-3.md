@@ -29,12 +29,12 @@ Néant
 | E-Dancer                    | Cry for the future                             | Heavenly                                                                     |          |
 | DJ Food                     | Peace pt 1                                     | Xen Cuts                                                                     |          |
 | Queen                       | Under pressure                                 | Live at Wembley ’86                                                          |          |
-| DJ Vadim feat. Motion Man   | The terrorist                                  | Zen CD – A Retrospective                                                     |          |
+| DJ Vadim feat. Motion Man   | The terrorist                                  | Zen CD – A Retrospective                                                     | Ⓓ        |
 | The Doors                   | Break on through, #2                           | In Concert                                                                   |          |
 | Norma Jean Bell             | Baddest bitch (Motorbass mix)                  | F Communications presents Live and Rare – A Celebration of Our 100th Release | Ⓓ Ⓢ      |
 | George Benson               | The ghetto / El barrio                         | Worldwide Programme 1                                                        |          |
 | Dave Clarke                 | The wolf                                       | We Are Skint                                                                 |          |
-| Bedrock feat. KYO           | For what you dream of                          | Trainspotting                                                                | Ⓓ        |
+| Bedrock feat. KYO           | For what you dream of                          | Trainspotting                                                                |          |
 | The Beginning Of The End    | Funky Nassau (part 1 & part 2)                 | Spirit of Funk 2                                                             |          |
 | Guns N’ Roses               | Knockin’ on Heaven’s door                      | Use Your Illusion II                                                         |          |
 | Average White Band          | Pick up the pieces                             | Spirit of Funk 2                                                             |          |
@@ -65,6 +65,6 @@ Néant
 
 [Spotify](https://open.spotify.com/user/maj%C3%A9/playlist/2lu6fW2X9EBfXR1zVGZNkB?si=opM1kdiWQw--ib_oUSoCmg)
 
-[Deezer](https://www.deezer.com/playlist/5673787202?utm_source=deezer&utm_content=playlist-5673787202&utm_term=2684091262_1553454032&utm_medium=web)
+[Deezer](https://www.deezer.com/en/playlist/5673787202)
 
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyKYwIzVmtSXtReTyey3GJSM)
