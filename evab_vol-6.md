@@ -11,7 +11,7 @@ Néant
 | Pop Levi                                                 | Dita Dimoné                             | You Don’t Know – Ninja Cuts                                          |          |
 | The Youngsters                                           | Café de la poste                        | Megasoft Office 2003                                                 |          |
 | Run DMC feat. Aerosmith                                  | Walk this way                           | Raising Hell                                                         |          |
-| DJ Food                                                  | Peace pt 3                              | Real Ibiza                                                           | Ⓓ Ⓢ Ⓨ    |
+| DJ Food                                                  | Peace pt 3                              | Real Ibiza                                                           | Ⓢ        |
 | Daft Punk                                                | TRON Legacy (end titles)                | TRON: Legacy (Original Motion Picture Soundtrack)                    |          |
 | Juantrip’                                                | Switch out the sun                      | Musiques pour les plantes vertes                                     | Ⓓ Ⓢ      |
 | Giorgio Moroder                                          | Chase                                   | Midnight Express – Music From The Original Motion Picture Soundtrack |          |
@@ -28,7 +28,7 @@ Néant
 | Run DMC                                                  | Papa crazy                              | Tougher Than Leather                                                 |          |
 | Fat Larry’s Band                                         | Act like you know (original 12” mix)    | Disco Sessions                                                       |          |
 | St Germain                                               | Jericho jerk                            | Psyché Rock Sessions                                                 |          |
-| Butti 49                                                 | Rivoluzione (con-fusion mix)            | Remixes Volume 1                                                     |          |
+| Butti 49                                                 | Rivoluzione (con-fusion mix)            | Remixes Volume 1                                                     | Ⓓ Ⓢ      |
 | Etienne de Crécy                                         | Grokster                                | Super Discount 2                                                     |          |
 | Randy Crawford                                           | Street life                             | Jackie Brown – Music from the Miramax Motion Picture                 |          |
 | Laurent Garnier                                          | Sambou                                  | Retrospective                                                        |          |
@@ -65,6 +65,6 @@ Néant
 
 [Spotify](https://open.spotify.com/playlist/1FHU3EcdeTQqxWAXqJFucH)
 
-[Deezer](https://www.deezer.com/playlist/6208130604?utm_source=deezer&utm_content=playlist-6208130604&utm_term=2684091262_1562965691&utm_medium=web)
+[Deezer](https://www.deezer.com/en/playlist/6208130604)
 
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyIhnO7K9zJHpvmlpijdLLcn)
