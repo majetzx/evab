@@ -41,7 +41,7 @@ Sélection principale par Benjamin, parmi les volumes 1 à 5
 | Les Rythmes Digitales                               | (Hey you) what’s that sound?                           | Darkdancer                                     |          |
 | KRS-One                                             | Sound of da police                                     | A Retrospective                                |          |
 | The Who                                             | Baba O’Riley                                           | Who’s Next                                     |          |
-| Laurent Garnier                                     | Gnanmankoudji (horny monster mix)                      | Tales Of A Kleptomaniac                        |          |
+| Laurent Garnier                                     | Gnanmankoudji (horny monster mix)                      | Tales Of A Kleptomaniac                        | Ⓓ Ⓢ      |
 | Michael Jackson                                     | Beat it                                                | Thriller                                       |          |
 | Alphonse Mouzon                                     | Funky Snakefoot                                        |                                                |          |
 | Queen                                               | Another one bites the dust                             | Greatest Hits                                  |          |
@@ -65,6 +65,6 @@ Sélection principale par Benjamin, parmi les volumes 1 à 5
 
 [Spotify](https://open.spotify.com/playlist/6MstrPsU1qkKdwmIH4LA1k)
 
-[Deezer](https://www.deezer.com/playlist/6026354604?utm_source=deezer&utm_content=playlist-6026354604&utm_term=2684091262_1559844516&utm_medium=web)
+[Deezer](https://www.deezer.com/en/playlist/6026354604)
 
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyJ2L5yaANwTDkFvRre3Gz23)
