@@ -11,7 +11,7 @@ Les enchainements des morceaux ont reçus une attention particulière
 | Beastie Boys                                        | Body movin’ (FatBoy Slim remix)       | Anthology: The Sounds Of Science                                            |          |
 | 808 State                                           | San Francisco                         | ex:el                                                                       |          |
 | Dimitri From Paris                                  | Free ton style (edit)                 | Sacrebleu                                                                   | Ⓓ Ⓢ      |
-| Dada Life                                           | Your favorite flu (Alex Gopher remix) | My New Remixes                                                              | Ⓢ        |
+| Dada Life                                           | Your favorite flu (Alex Gopher remix) | My New Remixes                                                              |          |
 | Cypress Hill                                        | Catastrophe                           | Stoned Raiders                                                              |          |
 | Bosco                                               | Action                                | Action                                                                      |          |
 | Armand Van Helden                                   | The boogie monster                    | 2Future4U                                                                   |          |
@@ -27,7 +27,7 @@ Les enchainements des morceaux ont reçus une attention particulière
 | DJ Shadow                                           | Disavowed                             | The Private Repress                                                         |          |
 | Alaska                                              | Lost in Alaska (the eurotrancey mix)  | Early Works                                                                 | Ⓓ Ⓢ      |
 | Felix Da Housecat                                   | Control freaq                         | Kittenz & Thee Glitz                                                        |          |
-| DJB Productions present Richard Rogers              | Can’t nobody (extended club mix)      | Distance 1995-2000 : An Interpretation of House Music in 2hrs 24mins 11secs |          |
+| DJB Productions present Richard Rogers              | Can’t nobody (extended club mix)      | Distance 1995-2000 : An Interpretation of House Music in 2hrs 24mins 11secs | Ⓨ        |
 | Nirvana                                             | Rape me                               | In Utero                                                                    |          |
 | Mr Flash                                            | Over the top                          | Ed Rec Vol III                                                              |          |
 | DJ QBert feat. Mix Master Mike & Buckethead         | Inner space dental commander          | Wave Twisters – Episode 7 Million: Sonic Wars Within The Protons            |          |
@@ -63,8 +63,8 @@ Les enchainements des morceaux ont reçus une attention particulière
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/user/maj%C3%A9/playlist/2QVMI7DaIsZejb39yEq4PF?si=kv82dbh8REC8N76ij5xG_Q)
+[Spotify](https://open.spotify.com/playlist/2QVMI7DaIsZejb39yEq4PF)
 
-[Deezer](https://www.deezer.com/playlist/5687315462?utm_source=deezer&utm_content=playlist-5687315462&utm_term=2684091262_1553797174&utm_medium=web)
+[Deezer](https://www.deezer.com/en/playlist/5687315462)
 
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyKuawH_nAgIAU_BosZ8VfyE)

@@ -39,7 +39,7 @@ Tous les morceaux doivent être disponibles sur Spotify
 | Moby                                                        | Bring back my happiness                | Everything Is Wrong                      |          |
 | Beastie Boys                                                | Sure shot                              | Anthology: The Sounds Of Science         |          |
 | Slam                                                        | Positive education (original version)  | Soma 10 Anthology                        |          |
-| Laurent Garnier                                             | Bourre pif (avant bath time!)          | Tales Of A Kleptomaniac                  |          |
+| Laurent Garnier                                             | Bourre pif (avant bath time!)          | Tales Of A Kleptomaniac                  | Ⓓ Ⓢ      |
 | Basement Jaxx feat. Damien                                  | Where’s your head at                   | Rooty                                    |          |
 | Cassius feat. Ghostface Killah                              | Thrilla                                | Au Rêve                                  |          |
 | The Chemical Brothers                                       | Hey boy hey girl                       | Surrender                                |          |
@@ -63,7 +63,7 @@ Tous les morceaux doivent être disponibles sur Spotify
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/user/maj%C3%A9/playlist/4uDh4Af6NlfpxMwMm55nba?si=urVZrrdUSHqvkN4Fi0NFAA)
+[Spotify](https://open.spotify.com/playlist/4uDh4Af6NlfpxMwMm55nba)
 
 [Deezer](https://www.deezer.com/en/playlist/5673782982)
 

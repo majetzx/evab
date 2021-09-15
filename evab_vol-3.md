@@ -34,7 +34,7 @@ Néant
 | Norma Jean Bell             | Baddest bitch (Motorbass mix)                  | F Communications presents Live and Rare – A Celebration of Our 100th Release | Ⓓ Ⓢ      |
 | George Benson               | The ghetto / El barrio                         | Worldwide Programme 1                                                        |          |
 | Dave Clarke                 | The wolf                                       | We Are Skint                                                                 |          |
-| Bedrock feat. KYO           | For what you dream of                          | Trainspotting                                                                |          |
+| Bedrock feat. KYO           | For what you dream of                          | Trainspotting                                                                | Ⓢ        |
 | The Beginning Of The End    | Funky Nassau (part 1 & part 2)                 | Spirit of Funk 2                                                             |          |
 | Guns N’ Roses               | Knockin’ on Heaven’s door                      | Use Your Illusion II                                                         |          |
 | Average White Band          | Pick up the pieces                             | Spirit of Funk 2                                                             |          |
@@ -55,7 +55,7 @@ Néant
 | Shinichi Osawa              | Push (Alex Gopher remix)                       | My New Remixes                                                               |          |
 | Led Zeppelin                | Trampled under foot                            | Celebration Day                                                              |          |
 | Laurent Garnier             | Crispy bacon                                   | 30                                                                           |          |
-| Justice                     | NY excuse                                      | A Cross The Universe                                                         | Ⓓ        |
+| Justice                     | NY excuse                                      | A Cross The Universe                                                         | Ⓓ Ⓢ      |
 | Nirvana                     | Come as you are                                | Live at Reading                                                              |          |
 | Underworld                  | Cowgirl                                        | Dubnobasswithmyheadman                                                       |          |
 | Artificial Funk             | Together-dub                                   | We Are Skint                                                                 |          |
@@ -63,7 +63,7 @@ Néant
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/user/maj%C3%A9/playlist/2lu6fW2X9EBfXR1zVGZNkB?si=opM1kdiWQw--ib_oUSoCmg)
+[Spotify](https://open.spotify.com/playlist/2lu6fW2X9EBfXR1zVGZNkB)
 
 [Deezer](https://www.deezer.com/en/playlist/5673787202)
 

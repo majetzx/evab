@@ -63,7 +63,7 @@ Sélection principale par Benjamin, parmi les volumes 6 à 10 ; les enchainement
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/2DvIbfRTYOQ4EuJM83YmjJ?si=UVNOA56nSny6VlFO2by_bA)
+[Spotify](https://open.spotify.com/playlist/2DvIbfRTYOQ4EuJM83YmjJ)
 
 [Deezer](https://www.deezer.com/playlist/6939306604?utm_source=deezer&utm_content=playlist-6939306604&utm_term=2684091262_1575921375&utm_medium=web)
 

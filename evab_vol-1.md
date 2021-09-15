@@ -63,7 +63,7 @@ Néant
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/user/maj%C3%A9/playlist/2tji5Unbadk3pWkLTDnrgw?si=hOz9xLP4SR6VTvWda7m1Wg)
+[Spotify](https://open.spotify.com/playlist/2tji5Unbadk3pWkLTDnrgw)
 
 [Deezer](https://www.deezer.com/en/playlist/5671095502)
 

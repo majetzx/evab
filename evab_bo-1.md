@@ -63,7 +63,7 @@ Sélection principale par Benjamin, parmi les volumes 1 à 5
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/6MstrPsU1qkKdwmIH4LA1k?si=Q5qrIibsQ7eT5NnxCCvoRA)
+[Spotify](https://open.spotify.com/playlist/6MstrPsU1qkKdwmIH4LA1k)
 
 [Deezer](https://www.deezer.com/playlist/6026354604?utm_source=deezer&utm_content=playlist-6026354604&utm_term=2684091262_1559844516&utm_medium=web)
 

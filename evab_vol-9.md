@@ -63,7 +63,7 @@ Un seul morceau par artiste
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/4yqMW6pSDS8deFlLEdNLur?si=hAaxWXpuRw2E1yFWbqcZvw)
+[Spotify](https://open.spotify.com/playlist/4yqMW6pSDS8deFlLEdNLur)
 
 [Deezer](https://www.deezer.com/playlist/6636525564?utm_source=deezer&utm_content=playlist-6636525564&utm_term=2684091262_1570263182&utm_medium=web)
 
