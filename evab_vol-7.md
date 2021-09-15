@@ -26,7 +26,7 @@ Un seul morceau par album
 | Iz & Diz                                                                        | What we need (satisfaction mix)                               | My House Vol. 04 – A House Music Compilation by DJ Jef K, Paris        | Ⓓ Ⓢ      |
 | Kool & The Gang                                                                 | Jungle boogie                                                 | Music from the Motion Picture Pulp Fiction (Collector’s Edition)       |          |
 | Scan X                                                                          | Reflection                                                    | Megasoft Office 2003                                                   |          |
-| Fred Wesley                                                                     | House party (full length version)                             | David Mancuso presents The Loft – Volume Two                           | Ⓓ Ⓢ      |
+| Fred Wesley                                                                     | House party (full length version)                             | David Mancuso presents The Loft – Volume Two                           | Ⓢ        |
 | Vitalic                                                                         | My friend Dario                                               | V Live                                                                 |          |
 | The Stooges                                                                     | Loose                                                         | Fun House                                                              |          |
 | The Prodigy                                                                     | Your love                                                     | Experience: Expanded                                                   |          |
@@ -49,8 +49,8 @@ Un seul morceau par album
 | Masters At Work feat. Wunmi                                                     | MAW expensive (a tribute to Fela)                             | Our Time Is Coming                                                     | Ⓓ Ⓢ       |
 | Cymande                                                                         | Bra                                                           | Soulheaven presents Jazzy Jeff In The House                            |          |
 | TTC                                                                             | Dans le club                                                  | Bâtards Sensibles                                                      |          |
-| The Jacksons                                                                    | Shake your body (down to the ground) (original 12” disco mix) | Disco Sessions                                                         | Ⓢ        |
-| Ladyhawke                                                                       | Paris is burning (Alex Gopher remix)                          | My New Remixes                                                         | Ⓢ        |
+| The Jacksons                                                                    | Shake your body (down to the ground) (original 12” disco mix) | Disco Sessions                                                         |          |
+| Ladyhawke                                                                       | Paris is burning (Alex Gopher remix)                          | My New Remixes                                                         | Ⓓ Ⓢ      |
 | Dom Um Romão                                                                    | Lake of perseverance (Opaque remix)                           | Nu Jazz Meets Brazil – The Dom Um Romão Remix Project                  |          |
 | FatBoy Slim                                                                     | Going out of my head                                          | Better Living Through Chemistry                                        |          |
 | Guns N’ Roses                                                                   | Yesterdays                                                    | Use Your Illusion II                                                   |          |
@@ -65,6 +65,6 @@ Un seul morceau par album
 
 [Spotify](https://open.spotify.com/playlist/3A8uKcK43Hu7dVTttWINtH)
 
-[Deezer](https://www.deezer.com/playlist/6455237124?utm_source=deezer&utm_content=playlist-6455237124&utm_term=2684091262_1567969603&utm_medium=web)
+[Deezer](https://www.deezer.com/en/playlist/6455237124)
 
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyLhQmPaSzeBmYMm4JCIRBLM)
