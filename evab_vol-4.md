@@ -27,7 +27,7 @@ Les enchainements des morceaux ont reçus une attention particulière
 | DJ Shadow                                           | Disavowed                             | The Private Repress                                                         |          |
 | Alaska                                              | Lost in Alaska (the eurotrancey mix)  | Early Works                                                                 | Ⓓ Ⓢ      |
 | Felix Da Housecat                                   | Control freaq                         | Kittenz & Thee Glitz                                                        |          |
-| DJB Productions present Richard Rogers              | Can’t nobody (extended club mix)      | Distance 1995-2000 : An Interpretation of House Music in 2hrs 24mins 11secs | Ⓨ        |
+| DJB Productions present Richard Rogers              | Can’t nobody (extended club mix)      | Distance 1995-2000 : An Interpretation of House Music in 2hrs 24mins 11secs |          |
 | Nirvana                                             | Rape me                               | In Utero                                                                    |          |
 | Mr Flash                                            | Over the top                          | Ed Rec Vol III                                                              |          |
 | DJ QBert feat. Mix Master Mike & Buckethead         | Inner space dental commander          | Wave Twisters – Episode 7 Million: Sonic Wars Within The Protons            |          |
