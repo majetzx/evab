@@ -31,7 +31,7 @@ Un seul morceau par artiste
 | Basement Jaxx                                          | Jump n’ shout                                          | Remedy                                                                 |          |
 | Sly & The Family Stone                                 | Brave & strong                                         | There’s a Riot Goin’ On                                                |          |
 | 808 State                                              | Southern cross                                         | Gorgeous                                                               |          |
-| Fredik Stark                                           | Funk pass                                              | My House Vol. 04 – A House Music Compilation by DJ Jef K, Paris        | Ⓓ Ⓢ Ⓨ    |
+| Fredik Stark                                           | Funk pass                                              | My House Vol. 04 – A House Music Compilation by DJ Jef K, Paris        | Ⓓ Ⓢ      |
 | Dom Um Romão                                           | Mas que nada (Scent remix)                             | Nu Jazz Meets Brazil – The Dom Um Romão Remix Project                  |          |
 | Birdy Nam Nam                                          | The parachute ending                                   | Manual For Successful Rioting                                          |          |
 | Derrick May                                            | Strings of the strings of life                         | Innovator                                                              |          |
