@@ -15,9 +15,9 @@ Sélection principale par Benjamin, parmi les volumes 6 à 10 ; les enchainement
 | Coolio                                         | Gangsta’s paradise                                                              | Tommy Boy’s Greatest Beats: The First Fifteen Years 1981-1996 Volume 4 |          |
 | Mr Scruff feat. Clive Hunte                    | Spandex man                                                                     | Keep It Unreal                                                         |          |
 | Julien Delfaud, Alex Gopher & Etienne de Crécy | Fast Track                                                                      | Super Discount 2                                                       |          |
-| The Jacksons                                   | Shake your body (down to the ground) (original 12” disco mix)                   | Disco Sessions                                                         | Ⓢ        |
+| The Jacksons                                   | Shake your body (down to the ground) (original 12” disco mix)                   | Disco Sessions                                                         |          |
 | The Stooges                                    | No fun                                                                          | The Stooges                                                            |          |
-| Butti 49                                       | Rivoluzione (con-fusion mix)                                                    | Remixes Volume 1                                                       |          |
+| Butti 49                                       | Rivoluzione (con-fusion mix)                                                    | Remixes Volume 1                                                       | Ⓓ Ⓢ      |
 | BreakBot                                       | Programme                                                                       | By Your Side                                                           |          |
 | Sly & The Family Stone                         | I want to take you higher                                                       | Stand!                                                                 |          |
 | Urban Blues Project presents Jay Williams      | Testify (Mousse T remix)                                                        | Paris is Sleeping – Respect is Burning                                 |          |
@@ -57,7 +57,7 @@ Sélection principale par Benjamin, parmi les volumes 6 à 10 ; les enchainement
 | Guns N’ Roses                                  | Yesterdays                                                                      | Use Your Illusion II                                                   |          |
 | Led Zeppelin                                   | Stairway to Heaven                                                              | Led Zeppelin IV                                                        |          |
 | Les Rythmes Digitales                          | Music makes you lose control                                                    | Darkdancer                                                             |          |
-| The Songstress                                 | See line woman                                                                  | Real Ibiza                                                             | Ⓓ Ⓢ      |
+| The Songstress                                 | See line woman                                                                  | Real Ibiza                                                             |          |
 | Beastie Boys                                   | Shese on it                                                                     | Rare Tracks & Beast                                                    |          |
 | Queen                                          | A kind of magic                                                                 | Live at Wembley ’86                                                    |          |
 
@@ -65,6 +65,6 @@ Sélection principale par Benjamin, parmi les volumes 6 à 10 ; les enchainement
 
 [Spotify](https://open.spotify.com/playlist/2DvIbfRTYOQ4EuJM83YmjJ)
 
-[Deezer](https://www.deezer.com/playlist/6939306604?utm_source=deezer&utm_content=playlist-6939306604&utm_term=2684091262_1575921375&utm_medium=web)
+[Deezer](https://www.deezer.com/en/playlist/6939306604)
 
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyJBY08XejTc9BTeBh-mAquo)
