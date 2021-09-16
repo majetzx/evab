@@ -24,14 +24,14 @@ Un seul morceau par artiste
 | Julien Delfaud, Alex Gopher & Etienne de Crécy         | Fast Track                                             | Super Discount 2                                                       |          |
 | A Guy Called Gerald                                    | Voltar                                                 | Proto Acid / The Berlin Sessions                                       | Ⓓ Ⓢ      |
 | Daphreephunkateerz                                     | Nuphunk                                                | Source Lab                                                             | Ⓓ Ⓢ      |
-| AFX                                                    | Analogue bubblebath                                    | Analogue Bubblebath                                                    | Ⓓ Ⓢ      |
+| AFX                                                    | Analogue bubblebath                                    | Analogue Bubblebath                                                    |          |
 | Armand Van Helden feat. Roland Clark                   | Flowerz (radio edit)                                   | Flowerz                                                                | Ⓓ Ⓢ      |
 | Beastie Boys                                           | Shese on it                                            | Rare Tracks & Beast                                                    |          |
 | Queen                                                  | I want to break free                                   | Greatest Hits II                                                       |          |
 | Basement Jaxx                                          | Jump n’ shout                                          | Remedy                                                                 |          |
 | Sly & The Family Stone                                 | Brave & strong                                         | There’s a Riot Goin’ On                                                |          |
 | 808 State                                              | Southern cross                                         | Gorgeous                                                               |          |
-| Fredik Stark                                           | Funk pass                                              | My House Vol. 04 – A House Music Compilation by DJ Jef K, Paris        | Ⓓ Ⓢ      |
+| Fredik Stark                                           | Funk pass                                              | My House Vol. 04 – A House Music Compilation by DJ Jef K, Paris        | Ⓓ Ⓢ Ⓨ    |
 | Dom Um Romão                                           | Mas que nada (Scent remix)                             | Nu Jazz Meets Brazil – The Dom Um Romão Remix Project                  |          |
 | Birdy Nam Nam                                          | The parachute ending                                   | Manual For Successful Rioting                                          |          |
 | Derrick May                                            | Strings of the strings of life                         | Innovator                                                              |          |
@@ -65,6 +65,6 @@ Un seul morceau par artiste
 
 [Spotify](https://open.spotify.com/playlist/4yqMW6pSDS8deFlLEdNLur)
 
-[Deezer](https://www.deezer.com/playlist/6636525564?utm_source=deezer&utm_content=playlist-6636525564&utm_term=2684091262_1570263182&utm_medium=web)
+[Deezer](https://www.deezer.com/en/playlist/6636525564)
 
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyLa-eIFRuX4QKjfCkBZnl_D)
