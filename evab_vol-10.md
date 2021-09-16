@@ -56,7 +56,7 @@ Un seul morceau par album
 | Roots Manuva                              | Witness (1 hope)                       | Run Come Save Me                                                            |          |
 | Sébastien Tellier                         | Divine                                 | Sampler Technikart Hors-Série Musique 2008                                  |          |
 | De La Soul                                | A roller skating jam named “Saturdays” | De La Soul Is Dead                                                          | Ⓓ Ⓢ      |
-| St Germain                                | Alabama blues (Todd Edwards vocal mix) | From Detroit to St Germain                                                  | Ⓢ        |
+| St Germain                                | Alabama blues (Todd Edwards vocal mix) | From Detroit to St Germain                                                  | Ⓓ Ⓢ      |
 | Kid Sister                                | Get fresh (Alex Gopher remix)          | My New Remixes                                                              |          |
 | Funkadelic                                | One nation under a groove              | The Best of Funkadelic 1976-1981                                            |          |
 | Kraftwerk                                 | Musique non stop                       | Electric Cafe                                                               |          |
@@ -65,6 +65,6 @@ Un seul morceau par album
 
 [Spotify](https://open.spotify.com/playlist/70xUbbkaGJhPwu34M3Tq2q)
 
-[Deezer](https://www.deezer.com/playlist/6786901104?utm_source=deezer&utm_content=playlist-6786901104&utm_term=2684091262_1573150404&utm_medium=web)
+[Deezer](https://www.deezer.com/en/playlist/6786901104)
 
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyJK9Sd7KJdDzL048sqzKP1f)
