@@ -11,7 +11,7 @@ Néant
 | Pop Levi                                                 | Dita Dimoné                             | You Don’t Know – Ninja Cuts                                          |          |
 | The Youngsters                                           | Café de la poste                        | Megasoft Office 2003                                                 |          |
 | Run DMC feat. Aerosmith                                  | Walk this way                           | Raising Hell                                                         |          |
-| DJ Food                                                  | Peace pt 3                              | Real Ibiza                                                           | Ⓢ        |
+| DJ Food                                                  | Peace pt 3                              | Real Ibiza                                                           | Ⓢ Ⓨ      |
 | Daft Punk                                                | TRON Legacy (end titles)                | TRON: Legacy (Original Motion Picture Soundtrack)                    |          |
 | Juantrip’                                                | Switch out the sun                      | Musiques pour les plantes vertes                                     | Ⓓ Ⓢ      |
 | Giorgio Moroder                                          | Chase                                   | Midnight Express – Music From The Original Motion Picture Soundtrack |          |
@@ -37,7 +37,7 @@ Néant
 | Mr Scruff feat. Clive Hunte                              | Spandex man                             | Keep It Unreal                                                       |          |
 | Sly & The Family Stone                                   | I want to take you higher               | Stand!                                                               |          |
 | DJ Mehdi feat. Chromeo                                   | I am somebody (Paris version)           | Lucky Boy At Night                                                   |          |
-| Motorbass                                                | Flying fingers                          | Pansoul                                                              | Ⓓ Ⓢ      |
+| Motorbass                                                | Flying fingers                          | Pansoul                                                              |          |
 | Led Zeppelin                                             | Carouselambra                           | In Through The Out Door                                              |          |
 | James Brown                                              | People get up and drive your funky soul | Spirit of Funk 2                                                     |          |
 | St Germain                                               | Rose rouge                              | Tourist                                                              |          |
@@ -59,12 +59,13 @@ Néant
 | Birdy Nam Nam                                            | Defiant order                           | Defiant Order                                                        |          |
 | A Tribe Called Quest                                     | I left my wallet in El Segundo          | People’s Instinctive Travels and the Paths of Rhythm                 |          |
 | Tyree                                                    | Acid over                               | Acid: Can You Jack? – Chicago Acid and Experimental House 1985–1995  | Ⓓ Ⓢ      |
-| AFX                                                      | [untitled]                              | Analogue Bubblebath 4                                                | Ⓓ Ⓢ      |
+| AFX                                                      | *untitled*                              | Analogue Bubblebath 4                                                | Ⓓ Ⓢ      |
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/1FHU3EcdeTQqxWAXqJFucH)
-
 [Deezer](https://www.deezer.com/en/playlist/6208130604)
 
+[Spotify](https://open.spotify.com/playlist/1FHU3EcdeTQqxWAXqJFucH)
+
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyIhnO7K9zJHpvmlpijdLLcn)
+

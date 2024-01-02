@@ -34,7 +34,7 @@ Tous les morceaux doivent être disponibles sur Spotify
 | Björk                                                       | Violently happy                        | Debut                                    |          |
 | The Aphex Twin                                              | Digeridoo (live in Cornwall, 1990)     | The Aphex Twin – Classics                |          |
 | The Prodigy                                                 | Funky shit                             | The Fat Of The Land                      |          |
-| Jack De Marseille feat. Jacob Eggay                         | Bring back that feeling                | Free My Music                            | Ⓓ        |
+| Jack De Marseille feat. Jacob Eggay                         | Bring back that feeling                | Free My Music                            |          |
 | Daft Punk                                                   | Rollin’ & scratchin’                   | Homework                                 |          |
 | Moby                                                        | Bring back my happiness                | Everything Is Wrong                      |          |
 | Beastie Boys                                                | Sure shot                              | Anthology: The Sounds Of Science         |          |
@@ -44,7 +44,7 @@ Tous les morceaux doivent être disponibles sur Spotify
 | Cassius feat. Ghostface Killah                              | Thrilla                                | Au Rêve                                  |          |
 | The Chemical Brothers                                       | Hey boy hey girl                       | Surrender                                |          |
 | Bosco                                                       | Electric                               | Action                                   |          |
-| FatBoy Slim                                                 | You’re not from Brighton               | You’ve Come A Long Way, Baby             |          |
+| Fatboy Slim                                                 | You’re not from Brighton               | You’ve Come A Long Way, Baby             |          |
 | Bob Sinclar                                                 | Ultimate funk                          | Paradise                                 |          |
 | Aphex Twin                                                  | Mt Saint Michel + Saint Michaels Mount | Drukqs                                   |          |
 | The Prodigy                                                 | Out of space                           | Experience: Expanded                     |          |
@@ -63,8 +63,9 @@ Tous les morceaux doivent être disponibles sur Spotify
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/4uDh4Af6NlfpxMwMm55nba)
-
 [Deezer](https://www.deezer.com/en/playlist/5673782982)
 
+[Spotify](https://open.spotify.com/playlist/4uDh4Af6NlfpxMwMm55nba)
+
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyL2dLMpFyTaelvC02h6MrBj)
+

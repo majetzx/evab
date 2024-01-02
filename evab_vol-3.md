@@ -13,7 +13,7 @@ Néant
 | Sueño Latino                | Sueño latino                                   | My House – A House Music Compilation by DJ Jef K, Paris                      |          |
 | Dom Um Romão                | Sambão (Jerome Sydenham remix)                 | Nu Jazz Meets Brazil – The Dom Um Romão Remix Project                        |          |
 | Deep Purple                 | Highway star                                   | Machine Head                                                                 |          |
-| Daft Punk                   | Horizon                                        | Random Access Memories                                                       | Ⓓ Ⓢ      |
+| Daft Punk                   | Horizon                                        | Random Access Memories                                                       |          |
 | House Of Pain               | Jump around                                    | House Of Pain                                                                |          |
 | Up, Bustle & Out            | Hip hop barrio                                 | Xen Cuts                                                                     |          |
 | Metallica                   | Master of puppets                              | Master Of Puppets                                                            |          |
@@ -42,7 +42,7 @@ Néant
 | Etienne de Crécy            | Liquidation totale                             | Super Discount                                                               |          |
 | The Who                     | Won’t get fooled again                         | Who’s Next                                                                   |          |
 | X-Press 2 feat. David Byrne | Lazy                                           | We Are Skint                                                                 |          |
-| Tepr                        | Thunderdome                                    | Technikart Selector #1                                                       |          |
+| Tepr                        | Thunderdome                                    | Technikart Selector #1                                                       | Ⓓ Ⓢ      |
 | St Germain                  | So flute                                       | Tourist                                                                      |          |
 | Scott Grooves               | Expansions                                     | Soma Quality Recordings – Volume 5                                           |          |
 | Queen                       | Crazy little thing called love                 | Live at Wembley ’86                                                          |          |
@@ -63,8 +63,9 @@ Néant
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/2lu6fW2X9EBfXR1zVGZNkB)
-
 [Deezer](https://www.deezer.com/en/playlist/5673787202)
 
+[Spotify](https://open.spotify.com/playlist/2lu6fW2X9EBfXR1zVGZNkB)
+
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyKYwIzVmtSXtReTyey3GJSM)
+

@@ -63,8 +63,9 @@ Un seul morceau par album
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/40VdpC8fz6NYXg33C08B36)
-
 [Deezer](https://www.deezer.com/en/playlist/6629644244)
 
+[Spotify](https://open.spotify.com/playlist/40VdpC8fz6NYXg33C08B36)
+
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyLTGVm1QKtqTTgNz8FcceQV)
+

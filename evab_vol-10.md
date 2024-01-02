@@ -43,7 +43,7 @@ Un seul morceau par album
 | Zapp & Roger                              | (Everybody) get up                     | More Bounce To The Ounce & Other Hits                                       |          |
 | Amon Tobin                                | Get your snack on                      | Supermodified                                                               |          |
 | A Tribe Called Quest                      | Luck of Lucien                         | People’s Instinctive Travels and the Paths of Rhythm                        |          |
-| FatBoy Slim                               | Gangster tripping                      | You’ve Come A Long Way, Baby                                                |          |
+| Fatboy Slim                               | Gangster tripping                      | You’ve Come A Long Way, Baby                                                |          |
 | Frédéric Galliano                         | Kanboufo                               | Frédéric Galliano and the African Divas                                     |          |
 | Double Dee & Steinski                     | The payoff mix                         | What Does It All Mean? – 1983-2006 Retrospective                            |          |
 | The Future Sound of London                | Expander:remix                         | Accelerator                                                                 |          |
@@ -55,7 +55,7 @@ Un seul morceau par album
 | Blaze                                     | Lovelee dae (original mix)             | Distance 1995-2000 : An Interpretation of House Music in 2hrs 24mins 11secs |          |
 | Roots Manuva                              | Witness (1 hope)                       | Run Come Save Me                                                            |          |
 | Sébastien Tellier                         | Divine                                 | Sampler Technikart Hors-Série Musique 2008                                  |          |
-| De La Soul                                | A roller skating jam named “Saturdays” | De La Soul Is Dead                                                          | Ⓓ Ⓢ      |
+| De La Soul                                | A roller skating jam named “Saturdays” | De La Soul Is Dead                                                          |          |
 | St Germain                                | Alabama blues (Todd Edwards vocal mix) | From Detroit to St Germain                                                  | Ⓓ Ⓢ      |
 | Kid Sister                                | Get fresh (Alex Gopher remix)          | My New Remixes                                                              |          |
 | Funkadelic                                | One nation under a groove              | The Best of Funkadelic 1976-1981                                            |          |
@@ -63,8 +63,9 @@ Un seul morceau par album
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/70xUbbkaGJhPwu34M3Tq2q)
-
 [Deezer](https://www.deezer.com/en/playlist/6786901104)
 
+[Spotify](https://open.spotify.com/playlist/70xUbbkaGJhPwu34M3Tq2q)
+
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyJK9Sd7KJdDzL048sqzKP1f)
+

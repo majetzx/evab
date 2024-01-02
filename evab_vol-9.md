@@ -15,7 +15,7 @@ Un seul morceau par artiste
 | Phil Kieran                                            | My house                                               | We Are Skint                                                           |          |
 | Scratch Perverts / Grandmaster Flash                   | Adventures on the wheels of steel                      | Still/The Joint: Sugar Hill Remixed                                    | Ⓓ Ⓢ      |
 | Santonio Echols                                        | Sources                                                | True People: The Detroit Techno Album.                                 | Ⓓ Ⓢ      |
-| The Capoeira Twins                                     | Descarga #3 (Rockers Hi-Fi recut)                      | Trip Do Brasil                                                         | Ⓓ Ⓢ      |
+| The Capoeira Twins                                     | Descarga #3 (Rockers Hi-Fi recut)                      | Trip Do Brasil                                                         |          |
 | Primal Scream                                          | Come together                                          | Trainspotting #2                                                       |          |
 | Coolio                                                 | Gangsta’s paradise                                     | Tommy Boy’s Greatest Beats: The First Fifteen Years 1981-1996 Volume 4 |          |
 | Universal Flava                                        | Jazz creation                                          | This Is… Jungle                                                        | Ⓓ Ⓢ      |
@@ -63,8 +63,9 @@ Un seul morceau par artiste
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/4yqMW6pSDS8deFlLEdNLur)
-
 [Deezer](https://www.deezer.com/en/playlist/6636525564)
 
+[Spotify](https://open.spotify.com/playlist/4yqMW6pSDS8deFlLEdNLur)
+
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyLa-eIFRuX4QKjfCkBZnl_D)
+

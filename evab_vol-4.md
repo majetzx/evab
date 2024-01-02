@@ -8,7 +8,7 @@ Les enchainements des morceaux ont reçus une attention particulière
 
 | Artiste                                             | Titre                                 | Album                                                                       | Manquant |
 |-----------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------|----------|
-| Beastie Boys                                        | Body movin’ (FatBoy Slim remix)       | Anthology: The Sounds Of Science                                            |          |
+| Beastie Boys                                        | Body movin’ (Fatboy Slim remix)       | Anthology: The Sounds Of Science                                            |          |
 | 808 State                                           | San Francisco                         | ex:el                                                                       |          |
 | Dimitri From Paris                                  | Free ton style (edit)                 | Sacrebleu                                                                   | Ⓓ Ⓢ      |
 | Dada Life                                           | Your favorite flu (Alex Gopher remix) | My New Remixes                                                              |          |
@@ -35,7 +35,7 @@ Les enchainements des morceaux ont reçus une attention particulière
 | Etienne de Crécy                                    | Am I wrong (Mooloodjee remix)         | Tempovision Remixes                                                         |          |
 | DJ Food                                             | A little samba                        | A Recipe For Disaster                                                       |          |
 | Led Zeppelin                                        | Whole lotta love                      | BBC Sessions                                                                |          |
-| FatBoy Slim                                         | Song for Lindy                        | Better Living Through Chemistry                                             |          |
+| Fatboy Slim                                         | Song for Lindy                        | Better Living Through Chemistry                                             |          |
 | Treacherous Three with special guest Philippe Wynne | Whip it                               | The Message – The Story Of Sugar Hill Records                               | Ⓓ Ⓢ      |
 | DJ Mehdi                                            | Breakaway                             | (The Story Of) Espion                                                       |          |
 | Herbie Hancock                                      | Rockit                                | Future Shock                                                                |          |
@@ -63,8 +63,9 @@ Les enchainements des morceaux ont reçus une attention particulière
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/2QVMI7DaIsZejb39yEq4PF)
-
 [Deezer](https://www.deezer.com/en/playlist/5687315462)
 
+[Spotify](https://open.spotify.com/playlist/2QVMI7DaIsZejb39yEq4PF)
+
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyKuawH_nAgIAU_BosZ8VfyE)
+

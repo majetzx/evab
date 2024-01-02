@@ -9,11 +9,11 @@ Néant
 | Artiste                                   | Titre                                      | Album                                                            | Manquant |
 |-------------------------------------------|--------------------------------------------|------------------------------------------------------------------|----------|
 | Michael Jackson                           | Wanna be startin’ somethin’                | Thriller                                                         |          |
-| Basement Jaxx                             | Fly life                                   | The Singles Special Edition                                      |          |
+| Basement Jaxx                             | Flylife                                    | The Singles Special Edition                                      |          |
 | Daft Punk                                 | Burnin’ (Ian Pooley “Cut up mix”)          | Burnin’                                                          |          |
 | Dave Clarke                               | Disgraceland                               | Devil’s Advocate                                                 |          |
 | DJ Shadow                                 | Organ donor                                | Endtroducing…                                                    |          |
-| Funkadelic                                | (Not just) knee deep (part 1)              | The Best of Funkadelic 1976-1981                                 |          |
+| Funkadelic                                | (Not just) knee deep (part 1)              | The Best of Funkadelic 1976-1981                                 | Ⓢ        |
 | Kraftwerk                                 | The robots                                 | The Man Machine                                                  |          |
 | Led Zeppelin                              | Communication breakdown                    | Led Zeppelin                                                     |          |
 | Led Zeppelin                              | When the levee breaks                      | Led Zeppelin IV                                                  |          |
@@ -35,7 +35,7 @@ Néant
 | Underworld                                | Shudder / King of snake                    | Beaucoup Fish                                                    |          |
 | Us3                                       | Cantaloop (flip fantasia)                  | Hand On The Torch                                                |          |
 | Vitalic                                   | Valletta fanfares                          | Ok Cowboy                                                        |          |
-| Demis Roussos                             | L.O.V.E. got a hold on me                  | David Mancuso presents The Loft – Volume Two                     |   Ⓢ      |
+| Demis Roussos                             | L.O.V.E. got a hold on me                  | David Mancuso presents The Loft – Volume Two                     | Ⓓ Ⓢ      |
 | Heatwave                                  | The groove line                            | Disco Sessions                                                   |          |
 | Vaughan Mason & Crew                      | Rollerskate (original full length version) | Disco Sessions                                                   |          |
 | St Germain                                | Deep in it                                 | From Detroit to St Germain                                       |          |
@@ -45,7 +45,7 @@ Néant
 | West Street Mob                           | Break dance electric boogie                | Party People present Phat ’N’ Funky                              |          |
 | Scott Grooves feat. Parliament/Funkadelic | Mothership ReConnection (Daft Punk mix)    | Soma 10 Anthology                                                |          |
 | Hamilton Bohannon                         | Let’s start the dance                      | Soulheaven presents Jazzy Jeff In The House                      |          |
-| Daft Punk                                 | Musique (version longue)                   | Source Labs – Classiques De 1995 À 2002                          | Ⓓ Ⓢ      |
+| Daft Punk                                 | Musique (version longue)                   | Source Labs – Classiques De 1995 À 2002                          |          |
 | Walter Carlos                             | William Tell overture (abridged)           | Stanley Kubrick’s A Clockwork Orange / Music from the Soundtrack |          |
 | Nuyorican Soul                            | I am the black gold of the sun             | Talkin Loud – 21st Century Soul                                  |          |
 | Lou Reed                                  | Perfect day                                | Trainspotting                                                    |          |
@@ -57,14 +57,15 @@ Néant
 | Justice                                   | DVNO                                       | †                                                                |          |
 | Guns N’ Roses                             | Sweet child o’ mine                        | Appetite For Destruction                                         |          |
 | Felix Da Housecat                         | Silver screen shower scene                 | Kittenz & Thee Glitz                                             |          |
-| FatBoy Slim                               | The weekend starts here                    | Better Living Through Chemistry                                  |          |
+| Fatboy Slim                               | The weekend starts here                    | Better Living Through Chemistry                                  |          |
 | Deep Purple                               | Speed king                                 | Made In Japan                                                    |          |
 | Birdy Nam Nam                             | Trans Boulogne Express                     | Manual For Successful Rioting                                    |          |
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/2tji5Unbadk3pWkLTDnrgw)
-
 [Deezer](https://www.deezer.com/en/playlist/5671095502)
 
+[Spotify](https://open.spotify.com/playlist/2tji5Unbadk3pWkLTDnrgw)
+
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyLm3TDXdEJdu9e04jPP6ZwI)
+

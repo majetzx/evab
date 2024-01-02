@@ -50,10 +50,10 @@ Sélection principale par Benjamin, parmi les volumes 6 à 10 ; les enchainement
 | Scratch Perverts / Grandmaster Flash           | Adventures on the wheels of steel                                               | Still/The Joint: Sugar Hill Remixed                                    | Ⓓ Ⓢ      |
 | Cassius                                        | Nulife                                                                          | 1999                                                                   |          |
 | Michael Jackson                                | P.Y.T. (pretty young thing)                                                     | Thriller                                                               |          |
-| De La Soul                                     | A roller skating jam named “Saturdays”                                          | De La Soul Is Dead                                                     | Ⓓ Ⓢ      |
+| De La Soul                                     | A roller skating jam named “Saturdays”                                          | De La Soul Is Dead                                                     |          |
 | Aufgang                                        | Kyrie                                                                           | Istiklaliya                                                            |          |
 | C2C                                            | Down the road                                                                   | Tetra                                                                  |          |
-| FatBoy Slim                                    | Going out of my head                                                            | Better Living Through Chemistry                                        |          |
+| Fatboy Slim                                    | Going out of my head                                                            | Better Living Through Chemistry                                        |          |
 | Guns N’ Roses                                  | Yesterdays                                                                      | Use Your Illusion II                                                   |          |
 | Led Zeppelin                                   | Stairway to Heaven                                                              | Led Zeppelin IV                                                        |          |
 | Les Rythmes Digitales                          | Music makes you lose control                                                    | Darkdancer                                                             |          |
@@ -63,8 +63,9 @@ Sélection principale par Benjamin, parmi les volumes 6 à 10 ; les enchainement
 
 ## Écouter
 
-[Spotify](https://open.spotify.com/playlist/2DvIbfRTYOQ4EuJM83YmjJ)
-
 [Deezer](https://www.deezer.com/en/playlist/6939306604)
 
+[Spotify](https://open.spotify.com/playlist/2DvIbfRTYOQ4EuJM83YmjJ)
+
 [Youtube](https://www.youtube.com/playlist?list=PLRBsABaibTyJBY08XejTc9BTeBh-mAquo)
+
